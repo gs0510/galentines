@@ -1,0 +1,10 @@
+[package]
+name = "galentines"
+version = "0.1.0"
+authors = ["Gargi Sharma <gs051095@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.3.14"
+structopt = "0.2.10"
+unicode-width = "*"
